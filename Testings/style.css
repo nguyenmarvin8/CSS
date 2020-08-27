@@ -1,0 +1,31 @@
+/* Create your test CSS here */
+
+.special {
+    color: indigo;
+}
+
+h2 {
+    color: lawngreen;
+}
+
+p {
+    color: red;
+  }
+
+.link {
+ background-color: greenyellow;
+}
+
+.nothing {
+    color: hotpink;
+}
+
+body {
+    background-color: pink;
+  }
+  
+  @media (min-width: 20em) {
+    body {
+      background-color: blue;
+    }
+  }
