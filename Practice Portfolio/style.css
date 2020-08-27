@@ -1,0 +1,33 @@
+h1 {
+    color: navy;
+    border-bottom: 1px solid navy;
+}
+
+h2 {
+    font-style: italic;
+}
+
+ul {
+    background-color: #eeeeee;
+    border: 5px solid purple;
+}
+
+li {
+    padding: 0px 0px 0px 0px;
+}
+
+.email {
+    padding-top: 20px;
+}
+
+.tele {
+    padding-bottom: 20px;
+}
+
+a:hover {
+    color: green;
+}
+
+h3 {
+    color: lightslategray;
+}
