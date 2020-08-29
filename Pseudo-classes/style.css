@@ -1,4 +1,4 @@
-article p::first-line {
+article p:first-child::first-line {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-weight: bold;
 }
